@@ -1,0 +1,26 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjnieuwenhuizen/NodeJS-ExpressJS-JWT-MSSQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/hjnieuwenhuizen/NodeJS-ExpressJS-JWT-MSSQL/blob/master/README.md",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.4.0",
+    "tedious": "^2.0.0",
+    "tedious-connection-pool": "^1.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}

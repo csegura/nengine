@@ -1,0 +1,7 @@
+{
+  "CHECK_EMAIL": "ACR_IS_DW.dbo.checkEmail @email = @email",
+  "SAVE_USER": "ACR_IS_DW.dbo.saveUser @email = @email, @password = @password",
+  "CHECK_PASSWORD1": "ACR_IS_DW.dbo.checkPassword",
+  "LIST_USERS": "ACR_IS_DW.dbo.listUsers",
+  "CHECK_PASSWORD": "ACR_IS_DW.dbo.checkPassword @email = @email, @password = @password"
+}
