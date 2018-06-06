@@ -16,7 +16,7 @@
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
-    "jsonwebtoken": "^7.4.0",
+    "jsonwebtoken": "^8.2.2",
     "tedious": "^2.0.0",
     "tedious-connection-pool": "^1.0.5"
   },
